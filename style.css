@@ -32,6 +32,15 @@
       color: #333;
     }
 
+    .signature {
+  margin-top: 25px;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 22px;
+  color: #444;
+  text-align: right;
+  font-style: italic;
+}
+
     .note .footer {
       margin-top: 20px;
       font-weight: bold;
